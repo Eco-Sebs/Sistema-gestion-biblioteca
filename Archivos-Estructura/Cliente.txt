@@ -1,0 +1,3 @@
+Paco,Stanli,Ramirez,STRP018231HBCKH,paco@gmail.com,sureste calientte,211313531,no quiero decir,Clasico,Romance,terror y misterio
+Daniel,Silva,Luna,SILD981007HDFNPL9,daniel@gmail.com,Ecatepec de morelos,5518205762,Hombre,Ciencia Ficcion,fantasia
+Daniel,Rios,Vieira,RIVD900720HDNMBA1,dani@gmail.com,san juan de aragon,5520345870,mujer,Ciencia Ficcion,Clasico,terror y misterio

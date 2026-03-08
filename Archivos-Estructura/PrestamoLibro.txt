@@ -1,0 +1,3 @@
+Paco,Stanli,Ramirez,STRP018231HBCKH,La ladrona de libros,2023/01/09,2023/02/08
+Daniel,Silva,Luna,SILD981007HDFNPL9,La cancion de Aquiles,2023/01/09,2023/02/08
+Daniel,Rios,Vieira,RIVD900720HDNMBA1,Solo necesito un gato,2023/01/10,2023/02/09

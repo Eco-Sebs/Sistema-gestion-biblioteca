@@ -1,0 +1,5 @@
+Expasion,1687153124,Grupo Edelvives,20,80,Bimestral
+Cuadernos,357843212347,Grupo Edelvives,2,40,Bimestral
+Cinzotle,7854321689,Santillana Sa De Cv,15,45,Mensual
+Ciencia y Desarrollo ,46542313547,Almadia Ediciones,12,32,Bimestral
+Vórtice,20304502367,Umbral,15,63,Mensual
